@@ -1,0 +1,79 @@
+.page-header.navbar .page-logo{
+  text-align: center;
+}
+.page-header.navbar .page-logo a{
+  float: none;
+  color: white;
+  text-transform: uppercase;
+  line-height: 53px;
+  font-size: 1.4em;
+}
+.page-header.navbar .page-logo a:hover{
+  text-decoration: none;
+}
+#edit_pro{
+  display: none;
+}
+.profile-content button{
+	background:transparent;
+	border:none !important;
+}
+.profile-content button:focus, .profile-content button:active{
+	border:none;
+	outline: none;
+}
+.profile-content .submit{
+  padding:5px 10px;
+}
+.profile-sidebar .profile-userpic{
+  text-align: center;
+}
+table .avatar img{
+  width: 30px;
+  height: 30px;
+}
+.page-header.navbar .top-menu .navbar-nav>li.dropdown-user .dropdown-toggle>img{
+  width: 30px;
+  height: 30px;
+}
+.d-inline-block{
+  display: inline-block;
+}
+.mr-2{
+    margin-right: 10px;
+}
+#chats{
+  background-color: #fff;
+  padding:10px;
+}
+#online-list{
+  padding-top: 13px;
+  clear: both;
+  display: block;
+}
+#online-list span{
+    cursor: pointer;
+    display: inline-block;
+}
+
+#online-list span.active,  #online-list span:hover{
+  background-color: #36c6d3;
+}
+
+.register-form select{
+  color: #999;
+}
+.register-form .type_role{
+  display: none;
+}
+
+#remove_history{
+  margin-left: 50px;
+}
+
+.technician_ipro_box{
+  width: 200px;
+  display: inline-block;
+  margin-left: 20px;
+  float: right;
+}
