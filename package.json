@@ -4,7 +4,7 @@
   "description": "Pavel Ezhov",
   "main": "app.js",
   "dependencies": {
-    "async": "^0.2.10",
+    "async": "^2.6.4",
     "express": "^3.21.2",
     "hashids": "^0.3.3",
     "mysql": "^2.17.1",
